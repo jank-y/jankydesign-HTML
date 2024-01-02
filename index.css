@@ -218,7 +218,7 @@
     height: 85px;
   }
   .home-container02 {
-    width: 711px;
+    width: 615px;
   }
   .home-text {
     font-size: 45px;
@@ -240,6 +240,7 @@
 }
 @media(max-width: 767px) {
   .home-container02 {
+    width: 593px;
     height: 102px;
     align-self: center;
     align-items: center;
@@ -276,7 +277,7 @@
     height: 79px;
   }
   .home-container02 {
-    width: 441px;
+    width: 306px;
     align-items: center;
     flex-direction: column;
     justify-content: flex-start;
@@ -288,6 +289,7 @@
   }
   .home-text01 {
     color: var(--dl-color-gray-white);
+    font-size: 16px;
     margin-top: var(--dl-space-space-halfunit);
     text-align: center;
     margin-left: 0px;
